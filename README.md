@@ -3,6 +3,7 @@
 Meu nome é Paulo Vitor Scarparo
 
 -Estou estudando no Alura
+
 -Utilizo esse espaço para compartilhar os projetos desenvolvidos em aula
 
 ### Você pode entrar em contato comigo 📫
